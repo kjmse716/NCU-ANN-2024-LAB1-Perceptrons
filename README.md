@@ -1,0 +1,1 @@
+[查看 PDF 版本的 README](https://github.com/kjmse716/NCU-ANN-2024-LAB1-Perceptrons/blob/main/ANN_HW1_Report.pdf)
